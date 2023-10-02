@@ -1,7 +1,7 @@
-pip install metaphor-python
-pip install langchain
-pip install bs4
-pip install streamlit
-pip install watchdog
-pip install sentence-transformers
-pip install faiss-cpu
+metaphor-python
+langchain
+bs4
+streamlit
+watchdog
+sentence-transformers
+faiss-cpu
