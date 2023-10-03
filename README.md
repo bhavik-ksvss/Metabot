@@ -2,7 +2,7 @@
 Metabot is a powerful chatbot crafted with the capabilities of the Metaphor API and Langchain. Dive in to effortlessly set up and interact with a bot that's at the forefront of chatbot technology.
 
 🚀 Getting Started\
-Online Link : https://metabot-app.streamlit.app/
+Online Link : https://metabot-app.streamlit.app/ \
 Follow these steps to get Metabot up and running on your local machine.
 
 📦 Step 1: Install Dependencies\
