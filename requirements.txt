@@ -5,3 +5,6 @@ streamlit
 watchdog
 sentence-transformers
 faiss-cpu
+openai
+pydantic
+tiktoken
