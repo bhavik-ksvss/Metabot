@@ -57,7 +57,7 @@ def main():
                     st.write('Response:', response)
                     break  
             else:
-                st.write("")
+                st.write("Please give me a different prompt!")
                 break
     except Exception as e:
         st.write("")
